@@ -1,3 +1,4 @@
 gTTS
 playsound
-
+pynput
+screeninfo
